@@ -23,6 +23,7 @@ Ref: 3 Stellar Death Planetary Nebula NGC 3132 STSCI-J-p22033b-4000px.jpeg
 ## Stephan’s Quintet:
 A visual grouping of five galaxies, is best known for being prominently featured in the holiday classic film, “It’s a Wonderful Life.” Today, NASA’s James Webb Space Telescope reveals Stephan’s Quintet in a new light. This enormous mosaic is Webb’s largest image to date, covering about one-fifth of the Moon’s diameter. It contains over 150 million pixels and is constructed from almost 1,000 separate image files. The information from Webb provides new insights into how galactic interactions may have driven galaxy evolution in the early universe.
 With its powerful, infrared vision and extremely high spatial resolution, Webb shows never-before-seen details in this galaxy group. Sparkling clusters of millions of young stars and starburst regions of fresh star birth grace the image. Sweeping tails of gas, dust and stars are being pulled from several of the galaxies due to gravitational interactions. Most dramatically, Webb captures huge shock waves as one of the galaxies, NGC 7318B, smashes through the cluster.
+
 Ref: 4 Interacting Galaxies Stephan's Quintet STSCI-J-p22034f-Crop-4000px.jpeg
 
 ## Carina Nebula:
