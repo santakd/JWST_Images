@@ -1,4 +1,4 @@
-![JWST_FULLCOLOR_2LINE_DARK_BG](https://user-images.githubusercontent.com/11453706/178866613-157abf87-e329-4537-9ae6-555bfb4ba47c.png)
+![JWST](https://github.com/santakd/JWST_Images/blob/main/7%20JWST_Fullcolor_2Line.png)
 
 # JWST_Images
 
