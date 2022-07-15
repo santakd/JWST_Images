@@ -1,6 +1,8 @@
 ![JWST](https://github.com/santakd/JWST_Images/blob/main/7%20JWST_Fullcolor_2Line.png)
 
 # JWST_Images
+Unless otherwise stated, all material on the site was produced by NASA and the Space Telescope Science Institute (STScI). 
+
 
 ## SMACS 0723:
 NASA’s James Webb Space Telescope has produced the deepest and sharpest infrared image of the distant universe to date. Known as Webb’s First Deep Field, this image of galaxy cluster SMACS 0723 is overflowing with detail.
