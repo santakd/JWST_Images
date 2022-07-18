@@ -2,6 +2,7 @@
 
 # JWST_Images
 Unless otherwise stated, all material on the site was produced by NASA and the Space Telescope Science Institute (STScI). 
+All images used must be credited.
 
 
 ## SMACS 0723:
