@@ -52,3 +52,5 @@ Ref: 6 Science Operations webbBluePrintFgsComposite1.42-2000px.jpeg
 
 ## Schematic Side View
 ![Side View](https://github.com/santakd/JWST_Images/blob/main/9%20JWST%20Schematics%20Side%20View.jpeg)
+
+<br>
