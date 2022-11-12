@@ -46,7 +46,7 @@ From concept to blueprint, through years of extensive development and testing, a
 
 Ref: 6 Science Operations webbBluePrintFgsComposite1.42-2000px.jpeg
 
-
+ 
 ## Mission Quick Facts
 ![Quick Facts](https://github.com/santakd/JWST_Images/blob/main/8%20JWST%20Mission%20Quick%20Facts.jpeg)
 
