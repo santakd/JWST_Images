@@ -4,7 +4,6 @@
 Unless otherwise stated, all material on the site was produced by NASA and the Space Telescope Science Institute (STScI). 
 All images used must be credited.
  
-
 ## SMACS 0723:
 NASA’s James Webb Space Telescope has produced the deepest and sharpest infrared image of the distant universe to date. Known as Webb’s First Deep Field, this image of galaxy cluster SMACS 0723 is overflowing with detail.
 Thousands of galaxies – including the faintest objects ever observed in the infrared – have appeared in Webb’s view for the first time. This slice of the vast universe covers a patch of sky approximately the size of a grain of sand held at arm’s length by someone on the ground. Massive foreground galaxy clusters magnify and distort the light of objects behind them, permitting a deep field view into both the extremely distant and intrinsically faint galaxy populations.
