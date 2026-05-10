@@ -49,6 +49,7 @@ From concept to blueprint, through years of extensive development and testing, a
 This image of protostar EC 53 in the Serpens Nebula, captured by the James Webb Space Telescope’s Near Infrared Camera (NIRCam), shows compass arrows, scale bar, and color key for reference.
 The protostar, circled in green, is enshrouded in dust in this near-infrared image. The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above). The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes one quarter of a year for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.
 
+![10 Protostar EC 53.png](https://github.com/santakd/JWST_Images/blob/main/10%20Protostar%20EC%2053.png)
  
 ## Mission Quick Facts
 ![Quick Facts](https://github.com/santakd/JWST_Images/blob/main/8%20JWST%20Mission%20Quick%20Facts.jpeg)
